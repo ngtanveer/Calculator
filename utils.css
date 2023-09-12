@@ -1,0 +1,59 @@
+.text-center{
+    text-align: center;
+    color:chartreuse;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    text-shadow: 10px 10px 10px black;
+    justify-content: center;
+    align-items: center;
+}
+.bg-red{
+    background-color: red;
+    
+}
+.mx-auto{
+    margin: auto;
+    justify-content: center;
+    align-items: center;
+}
+.flex{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.flex-col{
+  flex-direction: column;
+}
+.items-center{
+    align-items: center;
+    justify-content: center;
+}
+.cbutton{
+    padding: 9px 74px;
+    font-size: 40px;
+    border-radius: 30px;
+    margin: 0px 13px 0px 5px;
+    background-color: yellow;
+    justify-content: center;
+    align-items: center;
+
+}
+.pbutton{
+    padding: 22px 21px;
+    margin: -88px 8px;
+    font-size: 16px;
+    padding-top: 34px;
+    padding-bottom: 12px; 
+    justify-content: center;
+    align-items: center;
+}
+.bg{
+    border: 3px solid black;
+    height: 600px;
+    width: 500px;
+    justify-content: center;
+    align-items: center;
+    background: url(calc.png);
+    box-shadow: 10px 10px 10px black;
+}
